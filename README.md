@@ -65,3 +65,6 @@ Documentação que consultei para fazer o projeto:
 
 **Material da disciplina**
 - Exemplos das aulas, principalmente a aula 13 (Treeview e cadastro com SQLite), que usei como base para a estrutura da tela e do banco.
+
+## Vídeo do desenvolvimento
+Timelapse de parte do desenvolvimento: https://youtu.be/QKuhGcaD_eY
